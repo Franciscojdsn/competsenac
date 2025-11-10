@@ -1,18 +1,64 @@
-# Francisco João 🔷[LinkedIn](https://www.linkedin.com/in/francisco-jo%C3%A3o-617651302/)
-**💻 Desenvolvedor Fullstack | ⚛️ React | 🟨 JS | 🛢️ SQL | 🌐 API's**                    
+## What is Hub Cultural?
 
-Recém-formado em Técnico em Desenvolvimento de Sistemas e atualmente iniciando graduação na área. </br></br>Participei de um projeto web institucional pela FACEPE e estou desenvolvendo um projeto pessoal para aprofundar meus conhecimentos em **React**.</br></br>Tenho familiaridade com **JavaScript**, **React**, **MySQL** e testes de **APIs** com **Postman**. </br></br>Busco uma oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e evoluir na carreira tech.</br></br>
+*Hub Cultural* is a platform designed to promote culture and shed light on subcultures that are often overlooked by the mainstream.
 
-<p align="center" > 
-<img src="https://i.pinimg.com/originals/ed/0f/1b/ed0f1bc7e84329ad39b71bc8d562275a.gif" alt="Oferaçam seus corações" width="200" height="200" >
+Recife is a city rich in culture, but beyond its main stream of events lies a diverse and vibrant universe that remains unseen and unknown to much of the population.
 
-<div align="center">
+That’s where *Hub Cultural* comes in — a space dedicated to sharing information and helping people discover unique cultural events that are not easily found elsewhere.
 
-![Your github status](https://github-readme-stats.vercel.app/api?username=Franciscojdsn&show_icons=true&theme=dark) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscojdsn&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
-=======
+---
 
-  </div>
-</p>
+### Team
 
+- Guilherme Lins
+- Eduardo Guimarães
+- Eduardo Esteves
+- Gabriela Oliveira
+- Francisco João
+- Joy Rafael
 
+---
+
+### Technologies Used
+
+Technologies Used
+
+- Figma
+- Whatsapp
+- Canva
+- Google Meet
+- (Later, a web page based on React and DB in MySQL)
+
+---
+
+## How to Use the Platform
+
+### Getting Started
+
+To get started, follow the steps below:
+
+Access: www.hubcultural.com
+
+---
+
+### Features
+
+*User Registration:*
+
+In this section, users can enter their personal details (e.g., name, ID number, address, etc.).
+
+*Calendar:*
+
+Here, users can browse all confirmed events on the platform, including detailed information about where and when each event will take place.
+
+*Attractions:*
+
+This section highlights local attractions that are part of the Hub Cultural community.
+
+*Organizations:*
+
+In this tab, users can learn more about our partners — the institutions that organize and promote events in collaboration with Hub Cultural.
+
+*Reviews:*
+
+This area functions as a review wall, where users who have attended events can share their opinions and feedback about their experiences.
