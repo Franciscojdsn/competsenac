@@ -47,18 +47,18 @@ Access: www.hubcultural.com
 
 In this section, users can enter their personal details (e.g., name, ID number, address, etc.).
 
-###*Calendar:*
+### *Calendar:*
 
 Here, users can browse all confirmed events on the platform, including detailed information about where and when each event will take place.
 
-###*Attractions:*
+### *Attractions:*
 
 This section highlights local attractions that are part of the Hub Cultural community.
 
-###*Organizations:*
+### *Organizations:*
 
 In this tab, users can learn more about our partners — the institutions that organize and promote events in collaboration with Hub Cultural.
 
-###*Reviews:*
+### *Reviews:*
 
 This area functions as a review wall, where users who have attended events can share their opinions and feedback about their experiences.
