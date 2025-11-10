@@ -45,7 +45,7 @@ Access: www.hubcultural.com
 
 *User Registration:*
 
-In this section, users can enter their personal details (CPF, name, ID number, address, etc.).
+In this section, users can enter their personal details (CPF, name, address, etc.).
 
 ### *Calendar:*
 
